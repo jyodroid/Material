@@ -19,6 +19,7 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
